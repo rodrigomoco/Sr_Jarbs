@@ -1,0 +1,8 @@
+POO ( primeira aula ) 26/02/26
+
+class = só pode mexer na caixa de origem
+class = vai se transformar em objetos com dados associados
+
+encapsulamento = reter as informações para os demais usuários e proteger os dados.
+herança = herdar atributos e comportamentos.
+polimorfismo = esta correlacionado a herança,
